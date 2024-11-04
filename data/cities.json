@@ -35,18 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "d89e",
-      "cityName": "Logan",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-10-31T23:06:06.381Z",
-      "notes": "",
-      "position": {
-        "lat": "41.77822474956165",
-        "lng": "-111.84167861938478"
-      }
     }
   ]
 }
